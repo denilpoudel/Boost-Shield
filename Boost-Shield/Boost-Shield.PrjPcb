@@ -74,6 +74,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPDXAVPD
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Boost-Shield\Design Rule Check - Boost-Shield.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Designer
 Value=Denil Poudel
