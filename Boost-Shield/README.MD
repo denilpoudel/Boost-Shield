@@ -2,7 +2,7 @@
 
 A simple test PCB for LM3478 Boost Converter IC. Layouting is based on the Evaluation Board and datasheet guidelines.
 
-![3DViewV2](Images/3DViewv2.png)
+![3DViewV2](Images/3DViewV2.png)
 
 ## Design Constraints 
 * **Vin:** 3.4V to 4.2V
