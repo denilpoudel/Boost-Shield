@@ -13,6 +13,9 @@ __Previews
 *.log
 *.htm
 *.$$$
+*.html
+*.drc
+
 
 # Useless dirs
 Project\ Logs
