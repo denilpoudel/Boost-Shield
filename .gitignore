@@ -20,11 +20,15 @@ __Previews
 # Useless dirs
 Project\ Logs
 
+
 #History
 History
 
 *.zip
-
+*.CAM
 
 *.STEP
 *.STP
+Boost-Shield/Project Outputs for Boost-Shield/
+
+Boost-Shield/V1-Gerber/
