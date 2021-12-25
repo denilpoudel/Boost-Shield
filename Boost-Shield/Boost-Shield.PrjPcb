@@ -108,160 +108,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWDHMULR
 
-[Document5]
-DocumentPath=Boost-ShieldV1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=Boost-ShieldV1-NCDRILL.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM21
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM23
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GM24
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.REP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Boost-Shield\Boost-Shield.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Boost-Shield\Design Rule Check - Boost-Shield.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Designer
 Value=Denil Poudel
@@ -283,7 +129,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother HL-L2300D series (Copy 1)
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -389,7 +235,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-L2300D series (Copy 1)
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -467,7 +313,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother HL-L2300D series (Copy 1)
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -537,7 +383,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother HL-L2300D series (Copy 1)
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -657,7 +503,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother HL-L2300D series (Copy 1)
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -708,7 +554,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother HL-L2300D series (Copy 1)
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -816,7 +662,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother HL-L2300D series (Copy 1)
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -860,7 +706,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother HL-L2300D series (Copy 1)
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -921,7 +767,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother HL-L2300D series (Copy 1)
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
