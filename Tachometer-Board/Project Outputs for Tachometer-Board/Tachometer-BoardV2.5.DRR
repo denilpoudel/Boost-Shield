@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Tachometer-BoardV2.5.PcbDoc   2/9/2022  10:49:53 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Tachometer-BoardV2.5.TXT
+ASCII RectHoles File : Tachometer-BoardV2.5-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      30mil (0.75mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             165       PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Rectangle         2         PTH        0.00inch (0.00mm)
+T4      126mil (3.2mm)                                            Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              172
+
+Total Processing Time (hh:mm:ss) : 00:00:01
